@@ -39,7 +39,7 @@ Please define two layers named 'VUI' and 'Hidden VUI' "
 **如果目标对象使用了自定义遮罩，则需要额外的设置才能显示正常。**
 
 ```csharp
-    UIConfig.depthSupportForPaitingMode = true;
+    UIConfig.depthSupportForPaintingMode = true;
 ```
 
 ## 组件截图
